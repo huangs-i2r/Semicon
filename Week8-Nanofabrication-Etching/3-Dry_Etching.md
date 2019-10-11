@@ -6,7 +6,11 @@
 * identify steps in the procedure that affect etching
 
 ### Basic Function
-In dry etching charged ions are used to enhance material removal. The chemistry in-charged species are formed in a plasma discharge. Removal means that the atoms move from a solid phase to a mobile gas phase. This can be done by chemical reaction, physical removal of material or a combination of both. 
+- In dry etching charged ions are used to enhance material removal. 
+    + The chemistry in-charged species are formed in a plasma discharge. 
+    + Removal means that the atoms move from a solid phase to a mobile gas phase. 
+    + This can be done by __chemical reaction, physical removal of material or a combination of both__. 
+    
 Here's a schematic of a chamber where plasma etching would occur. The substrate is placed between two electrodes. The substrate sits directly on one of these electrodes. 
 Depending on the type of etching that is performed, this electrode may be grounded or powered. Gases are also flowed into the chamber. Plasma systems use radio frequency or microwave energy to ionize gases under vacuum. 
 Pressures in this chamber range depending on the type of process but are typically less than one Torr. 
