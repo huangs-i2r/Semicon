@@ -65,7 +65,7 @@ Each straw is then placed in a glass file with some clay around it. So that it's
 3:12
 The straw is held in place by the clay to reduce any vibration from the stage that might lead to unintended movement of the specimens.
 3:23
->> Many types of samples can be analyzed in the micro-CT, not just bones and fossils.
+Many types of samples can be analyzed in the micro-CT, not just bones and fossils.
 3:30
 Our instrument has been used to image USB drives, electronic circuits, museum specimens, marine species, plants, and meteorites. Sometimes, the samples need to be altered to get the best outcome with the micro-CT.
 3:48
