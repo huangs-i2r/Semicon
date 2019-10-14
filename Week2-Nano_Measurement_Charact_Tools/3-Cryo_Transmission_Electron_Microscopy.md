@@ -43,9 +43,9 @@ We need to keep our sample frozen as we move it to the TEM for imaging.
 4:29
 Now let's go to the TEM room and load our sample into the TEM.
 4:34
->> Now let's do some imaging. First, I'll show you how to image a thin section sample with the TEM. >> And then I’m going to show you how to image a sample by cryo TEM.
+Now let's do some imaging. First, I'll show you how to image a thin section sample with the TEM. >> And then I’m going to show you how to image a sample by cryo TEM.
 4:45
->> Here's our thin section sample on the TEM grid. We place the grid onto the sample holder. Remember that the TEM is always under vacuum, so we need to carefully insert the sample holder into the TEM. Then, we are going to optimize the beam to get the best images possible. Today, we are imaging a sample of muscle tissue. I am interested in looking at the mitochondria and Z bands in this muscle. So let's search for them.
+Here's our thin section sample on the TEM grid. We place the grid onto the sample holder. Remember that the TEM is always under vacuum, so we need to carefully insert the sample holder into the TEM. Then, we are going to optimize the beam to get the best images possible. Today, we are imaging a sample of muscle tissue. I am interested in looking at the mitochondria and Z bands in this muscle. So let's search for them.
 5:15
 This is our thinned sectioned image of our muscle tissue. This large black area here is our nucleus.
 5:25
@@ -53,7 +53,7 @@ These smaller round objects are mitochondria. Notice that the mitochondria don't
 5:34
 The filamentous areas here, that is your actin and myosin filaments, and the dark black bands are the Z bands in the muscle. Now, let's go to Melanie for the cryo TEM imaging. >> Here's our frozen sample in the cold liquid nitrogen jewer. First, we cool off the cryo TEM sample holder, then we lay the sample into the holder.
 5:58
->> To do this, we take the gridbox out of the liquid nitrogen jewer, and put it into the transfer station which also has liquid nitrogen to keep the sample cold. Then we take the grid out of the gridbox, and place the TEM grid into the cryo TEM sample holder. Then we put the cryo sample holder into the TEM.
+To do this, we take the gridbox out of the liquid nitrogen jewer, and put it into the transfer station which also has liquid nitrogen to keep the sample cold. Then we take the grid out of the gridbox, and place the TEM grid into the cryo TEM sample holder. Then we put the cryo sample holder into the TEM.
 6:18
 Then we align electron beam and go looking around on our sample for a good spot to image. Today we are imaging a sample of polymersomes. Polymersomes are nanosized biodegradable polymer containers which we can load dyes or drugs into for the imaging and treatment of cancer in patients. Once I've made these polymersomes in a lab I need to check using cryo TEM that they're the correct size for optimal accumulation in tumors. >> Thank you for joining us today during this self materials in cryo TEM video.
 
