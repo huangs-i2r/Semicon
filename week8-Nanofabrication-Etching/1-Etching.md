@@ -7,8 +7,8 @@
 
 ### Etching: Basic Function
 Hi, I'm Steve Shannon, Associate Professor in the Department of Nuclear Engineering at NC State University. Today, we'll be talking about etching. Etching is a method used in nanofabrication to remove unwanted material. For example, let's say you have a substrate made of silicon that has been coated with a thin film of silicon dioxide.
-￼
-Right now, the silicon dioxide completely covers the surface. However, if you want it in a specific shape, like a checkerboard pattern, you need to protect the silicon dioxide you want to keep and leave the silicon dioxide exposed for chemical removal that you want to remove.
+
+￼Right now, the silicon dioxide completely covers the surface. However, if you want it in a specific shape, like a checkerboard pattern, you need to protect the silicon dioxide you want to keep and leave the silicon dioxide exposed for chemical removal that you want to remove.
 
 This could be done using a photolithography process. In photolithography, light sensitive polymeric photoresists are deposited on the top of the thin film surface. They are then cured in precise patterns using light.
 
