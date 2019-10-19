@@ -1,12 +1,14 @@
 ### Learning Objective
-
+##### Chemical Wet Etching
 - describe the etching environment and how etching occurs in the chemical wet etching process
 - describe how etching occurs in the chemical wet etching process
 - identify steps in the procedure that affect wet etching
 - discuss the advantages and disadvantages of using chemical wet etching for an etching process
+##### Chemical Wet Etching: Demonstration
 - explain the safety precautions undertaken during chemical wet etching
 - describe the basic steps required to chemically wet etch a wafer and the rationale for each step in the process
-### Basic Function
+
+### Chemical Wet Etching: Basic Function
 * Wet etching uses liquid etchings to remove undesired material. These etchings are often __strong acids__ or __bases__. 
 * The substrates are placed directly into a bath containing an etching solution. The wafers are submerged in the bath, both sides of the substrate will be exposed to the etching and can be etched. 
 * The exposed material is etched by chemical processes. The reaction products are typically soluble in the bath solution or gaseous. 
@@ -46,7 +48,7 @@ For example, if you want to etch titanium and you are using photo resist as a pr
   + Further, find process control in these systems is difficult. This can make reproducibility hard. 
 When selecting an etching process, It is important to take these pros and cons under consideration.
 
-### Demostration
+### Chemical Wet Etching: Demostration
 Demonstrate chemical wet etching in the cleaner. Due to the nature of the chemicals that are used in the etching process and the potential exposure to these chemicals, safety precautions are of utmost importance. 
 
 The process is conducted in a chemical fume hood. Air is drawn from the front side of the hood and expelled from the roof of the building. The facility exhaust has abatement systems in place to neutralize any reactive gases before released to the environment. The hood protects the user from harmful chemical vapors. On top of our normal clean room attire, we also wear appropriate personal protective equipment or PPE to prevent direct exposure to hazardous chemicals. This includes a chemical apron, chemically resistant gloves, and a face shield. 
