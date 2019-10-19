@@ -15,47 +15,47 @@ describe conditions required for e-beam lithography
 
 ### Electron-beam Lithography: Basic Function
 Welcome, I'm Nan Jokerst and this is our in depth video about Electron Beam Lithography or EBL.
-0:20
+
 There are two types of lithography or patterning that we'll discuss in this course, Electron Beam Lithography and Photolithography. In this video, we will talk about Electron Beam Lithography which uses electrons to make a pattern.
-0:36
+
 In the photolithography video, we discussed the concept of spin coating, photo resist, exposure, and the development process. Electron Beam Lithography is similar to photolithography in many ways. EBL uses spin coating, exposure, and development steps. But rather than using photo resist, EBL uses Electron Beam Resist or what we called EBL Resist, which is sensitive to electrons. Also, the exposure step of EBL doesn't involve light. But as the name implies, uses an electron beam instead.
-1:14
+
 Typical EBL systems use the electron beam to sequentially write each feature in the pattern. In contrast to photolithography, where all of the pattern is illuminated at one time. The advantages of EBL include small feature sizes, down to ten nanometers or less. And a mask is not needed for patterning, so it's easy and fast to change a design. This is in contrast to photolithography, where a mask is required. Since there is no mask required for EBL, we simply use computer aided design or a CAD program to lay out the pattern that we want to transfer to our substrate. And that pattern is loaded directly into the EBL machine.
-1:58
+
 Let's look at the the process of EBL now in more detail. First, we select a substrate that we want to put a pattern on to. In the electronics industry for example, we would start with a semiconductor wafer, such as silicon. The wafer is then coated with a thin polymer layer, using a process known as spin coating. Using the same technology as spin coating for photolithography but using this special resist that is sensitive to electrons, the EBL resist. So when we expose the polymer to a beam of electrons, the polymer undergoes a chemical change. This EBL resist is also very thin. Since a thin resist is needed to create very small feature sizes.
-2:47
+
 Let's take a closer look at the substrate coated with EBL resist. Here's a close up cross-sectional view of the substrate with the EBL resist on it. The resist thickness may range from tens of nanometers to a few hundred nanometers, depending upon the desired process and feature size. The substrate thickness, by contrast, is usually several hundred microns. Next, we load the substrate coated with the EBL resist into the Electron Beam Lithography instrument. The EBL is quite a complex instrument, but its basic components are as follows. There is an electron source which is a small sharpened tip that emits a stream of electrons when a high voltage bias is applied.
-3:36
+
 We call these emitted electrons the electron beam.
-3:40
+
 Next is an electromagnetic lens system. Here we show a cross-sectional view. The lens system focuses the beam of electrons. The major difference in focusing electrons and the major advantage of EBL compared to photolithography, is that an electron beam can be focused to an extremely small spot size less than five nanometers in diameter.
-4:08
+
 Just for reference, the cross section of the human hair is about 100 thousand nanometers in diameter. Now, below the lens system is this set of beamed deflectors.
-4:21
+
 Beam deflectors can electronically deflect the focused beam of electrons at extremely high speeds. This controls the position of the electron beam, allowing the beam to be steered to different regions of the substrate. Typical beam deflectors can move the beam from one position to another. In a matter of nanoseconds, so it's very fast.
-4:46
+
 The electron source emits electrons, the lens system focuses the beam, and a deflector steer the beam across the substrate.
-4:55
+
 The beam deflectors direct the beam across a substrate based on that pattern you have drawn using the CAD program and that you've loaded into the EBL system.
-5:08
+
 A pattern could be as simple or as complex as you wish. You may only have a few shapes to pattern or you may have millions of shapes to pattern. All of this is computer controlled and very fast.
-5:22
+
 The EBL reads the data from your computer file program and this information is used to stir the electron beam to create your pattern in the resist. When the EBL has completed the patterning we refer to the substrate as exposed since it has been exposed to the electron beam. The resist that was exposed to the electron beam is chemically different from the resist that was not exposed.
-5:48
+
 The next step is to remove the substrate from the EBL instrument and ti submerge it into a chemical bath known as developer.
-5:58
+
 The developer will dissolve the resist material that was exposed to the electron beam. But it will not dissolve the resist that was not exposed to the electron beam.
-6:11
+
 After a brief time in the developer, typically one to two minutes, we remove the substrate, and rinse the substrate, usually with isopropyl alcohol. And dry it with pressurized nitrogen gas to ensure that we have a clean dry wafer. At this point, we have successfully patterned the EBL resist on the substrate using our electron beams. Now you may remember from the photolithography video that the resist layer is intended to be only a temporary layer. The pattern resist is intended to be used with other processing steps that creates a permanent pattern on the substrate.
-6:54
+
 In the photolithography video, we demonstrated etching a metal with the photo resist pattern protecting part of the metal from the etched.
-7:04
+
 This is called an Etchback process. However, in contrast, to achieve the small feature sizes we desire in the EBL process, we typically use a different process to pattern these vacuum deposited, thin layers of added material such as metal.
-7:22
+
 The process we use with EBL is called lift off. First, we pattern and develop the EBL resist, and then we deposit the metal layer on top of that EBL resist. Any area where the EBL resist was removed is where the metal sticks to the substrate. When we dissolve away that EBL resistant acetone, the metal that's sitting on top of the resist is also removed.
-7:52
+
 Here's an example of an EBL substrate that was patterned and then underwent subsequent evaporation and lift off. You can see just how small the features patterned in EBL can be. Here, we have metal lines that are only 35 nanometers wide.
-8:10
+
 I hope you enjoyed this lesson. Thank you for joining me today.
 
 
